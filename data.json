@@ -1,14 +1,14 @@
 [
 {
   "id": 123,
-  "lastname": "agtang",
-  "firstname": "ace jerald",
-  "middlename": "baysa",
+  "last_name": "agtang",
+  "first_name": "ace jerald",
+  "middle_name": "baysa",
 },
 {
   "id": 234,
-  "lastname": "agtang111",
-  "firstname": "ace jerald111",
-  "middlename": "baysa1111",
+  "last_name": "agtang111",
+  "first_name": "ace jerald111",
+  "middle_name": "baysa1111",
 }
 ]
